@@ -1,0 +1,15 @@
+# Node modules and builds
+node_modules/
+dist/
+build/
+.next/
+
+# Environment and logs
+.env
+*.log
+
+# OS + IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
